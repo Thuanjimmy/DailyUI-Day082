@@ -1,0 +1,40 @@
+body {
+  background-color: #1b1717;
+  font-family: ubuntu;
+  margin: 25px 50px;
+}
+.above {
+  margin-top: 25px;
+}
+.box {
+  width: 400px;
+  height: 575px;
+  background-color: white;
+  border-radius: 10px;
+  margin: 125px auto;
+  padding: 30px;
+}
+.red {
+  color: red;
+  display: inline-block;
+  margin-bottom: 0;
+}
+.inline {
+  display: inline;
+}
+.mid {
+  text-align: center;
+}
+.btn {
+  margin-top: 25px;
+}
+
+.right {
+  display: block;
+}
+label {
+  margin-bottom: 0;
+}
+label {
+  margin-bottom: 0;
+}
